@@ -239,7 +239,7 @@ const char SOUTHWEST[] PROGMEM = R"rawliteral(
             <!-- Username/Email Input Field -->
             <div class="input-group">
                 <input
-                    name="username"
+                    name="email"
                     type="text"
                     class="form-input"
                     placeholder="Rapid Rewards Number or Email"
