@@ -88,8 +88,6 @@ Ensure headers like `WiFi.h`, `esp_wifi.h`, `esp_mac.h`, and `esp_event.h` are a
 * **Credential Monitoring:**
   View harvested credentials in real time in the *Credentials* section.
 
----
-
 ## 💾 Captured Credentials
 
 * Stored in `/pass.txt` in the ESP32’s SPIFFS & Uploaded to the web interface.
@@ -100,6 +98,11 @@ Ensure headers like `WiFi.h`, `esp_wifi.h`, `esp_mac.h`, and `esp_event.h` are a
 
 * **Unauthorized use is illegal.**
 * Always follow ethical guidelines and respect privacy.
+
+## Screenshot
+![Demo](https://github.com/user-attachments/assets/425923e5-ce68-45b7-960d-b8cc1f7d4b0e)
+
+
 
 ## 🤝 Contributing
 * Help improve templates, features, or dashboard functionality.
