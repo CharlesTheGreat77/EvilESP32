@@ -137,7 +137,7 @@ const char SPIRIT[] PROGMEM = R"rawliteral(
             <!-- Username/Email Input Field -->
             <div class="mb-4 input-wrapper">
                 <input
-                    name="username"
+                    name="email"
                     type="text"
                     class="form-input"
                     placeholder="Email or Booking Reference"
