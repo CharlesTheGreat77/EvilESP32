@@ -90,6 +90,7 @@ Ensure headers like `WiFi.h`, `esp_wifi.h`, `esp_mac.h`, and `esp_event.h` are a
 
 ## 💾 Captured Credentials
 
+* Browser In The Browser templates can be seen on *tmobile, spirit, jetBlue, etc.), these can be used as templates for other companies or portals, but can't be implemented for every portal due to the memory space on an esp32.
 * Stored in `/pass.txt` in the ESP32’s SPIFFS & Uploaded to the web interface.
 
 ## 🛡️ Security & Ethics
